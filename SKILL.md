@@ -43,7 +43,7 @@ which yt-dlp ffmpeg                       # 下載與音訊處理
 ```bash
 /usr/bin/python3 ~/.claude/skills/youtube-transcribe-zh/scripts/transcribe.py \
   "https://www.youtube.com/watch?v=XXXXXXXXXXX" \
-  --outdir ~/Documents/伊斯蘭拜功教法學系列逐字稿
+  --outdir ./outputs
 ```
 
 常用選項：

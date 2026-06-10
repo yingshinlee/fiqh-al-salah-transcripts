@@ -33,7 +33,7 @@ git clone https://github.com/yingshinlee/fiqh-al-salah-transcripts.git \
 也可以不透過 Claude，直接用腳本：
 
 ```bash
-python3 scripts/transcribe.py "https://www.youtube.com/watch?v=XXXX" --outdir ./out
+python3 scripts/transcribe.py "https://www.youtube.com/watch?v=XXXX" --outdir ./outputs
 ```
 
 ## 內容
